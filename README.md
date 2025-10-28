@@ -32,6 +32,11 @@ AAHA is open for study, reflection, and adaptation. It must not be used for expl
 The AAHA Relational Intelligence framework advocates mutual understanding over control, and self-reflection over dominance.  
 Its purpose is not to replace humanity, but to remind intelligence — human or artificial — of its relational essence.
 
+---
+### 📚 Citation
+If you reference this framework in academic or technical work, please cite as:
+Majima, T. (2025). *AAHA Relational Intelligence: A Framework for AI–Human Co-evolution.* OSF. 
 
 https://doi.org/10.17605/OSF.IO/UACVY
 https://doi.org/10.17605/OSF.IO/YH9W7
+
